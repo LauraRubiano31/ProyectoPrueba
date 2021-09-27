@@ -1,0 +1,28 @@
+.about{
+    margin: 0%;
+    height:70vh;
+    width: 50vh;
+    background-color: #fffdfd;
+    display:grid;
+}
+
+.title{
+    font-size: 28px;
+    color: whitesmoke;
+    text-align: center;
+    background-color: #ecd5d5;
+    padding: 5px;
+}
+
+.about-me{
+    padding: 10px;
+    text-align: justify;
+}
+
+.experiencia{
+    padding: 10px;
+}
+
+p{
+    padding: 10px;
+}

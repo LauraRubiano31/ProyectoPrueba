@@ -1,0 +1,9 @@
+.about1{
+    width: 100vh;
+    background-color: #fffdfd;
+    margin: 0 auto;
+    width:800px;
+    border-style: double;
+    border-color: #ecd5d5;
+    margin-bottom:30px;
+}

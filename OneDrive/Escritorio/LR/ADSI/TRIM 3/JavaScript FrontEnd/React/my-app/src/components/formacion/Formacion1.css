@@ -1,0 +1,18 @@
+.formacion1{
+    width: 100vh;
+    background-color: #fffdfd;
+    margin: 0 auto;
+    width:800px;
+    border-style: double;
+    border-color: #ecd5d5;
+    margin-bottom:30px;
+}
+
+.bottom2{
+    border-radius: 20px;
+    background-color: rgb(117, 117, 156);
+    width: auto;
+    padding: 10px;
+    text-align: center;
+    margin-left:48%;
+}

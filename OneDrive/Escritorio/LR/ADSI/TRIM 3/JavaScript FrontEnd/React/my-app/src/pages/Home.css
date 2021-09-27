@@ -1,0 +1,41 @@
+.footer{
+    width: 100%;
+    height: 180px;
+    margin-top: 72px;
+}
+
+.header-img{
+    width: 100%;
+    height: 180px;
+    margin-bottom: 50px;
+}
+
+.title-prin{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(180, 89, 175);
+}
+
+.bottom{
+    border-radius: 20px;
+    background-color: rgb(117, 117, 156);
+    width: auto;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.bottom:hover{
+    background-color: rgb(202, 142, 194);
+    border-color: rgb(117, 117, 156);
+}
+
+.home{
+    text-align: center;
+}
+
+.gif-home{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

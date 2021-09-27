@@ -1,0 +1,9 @@
+.contenedor{
+  margin: 0 auto;
+  width:800px;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  border-style: double;
+  border-color: #ecd5d5;
+  padding: 0%;
+}

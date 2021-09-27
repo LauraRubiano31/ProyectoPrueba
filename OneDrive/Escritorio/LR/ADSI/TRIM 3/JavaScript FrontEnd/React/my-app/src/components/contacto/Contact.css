@@ -1,0 +1,16 @@
+.contacto{
+    margin: 0 auto;
+    height:60vh;
+    width: 50vh;
+    background-color: #ecd5d5;
+}
+
+.titulo{
+    font-size: 28px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+ul {
+    list-style:circle;
+}

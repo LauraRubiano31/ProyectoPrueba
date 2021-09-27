@@ -1,0 +1,19 @@
+.Formacion{
+    margin: 0%;
+    height:60vh;
+    width: 50vh;
+    background-color: #fffdfd;
+}
+
+.formacion{
+    padding: 10px;
+}
+
+.bottom1{
+    border-radius: 20px;
+    background-color: rgb(117, 117, 156);
+    width: auto;
+    padding: 10px;
+    text-align: center;
+    margin-left:40%;
+}

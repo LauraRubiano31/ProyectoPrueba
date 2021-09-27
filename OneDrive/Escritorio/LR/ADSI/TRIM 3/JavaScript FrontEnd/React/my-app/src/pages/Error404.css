@@ -1,0 +1,33 @@
+.Error{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin: 0 auto;
+}
+
+.error{
+    font-size: 90px;
+    color: rgb(197, 11, 11);
+    margin-top: 30%;
+    margin-right: 40%;
+}
+
+.page{
+    font-size: 50px;
+    color: #e46a24;
+    margin-top: 0%;
+    text-align: center;
+}
+
+.error-img{
+    height:450px;
+    margin-top: 10%;
+    margin-left: 20%;
+   text-align: center;
+}
+
+.strong{
+    font-size: 40px;
+    color: #e46a24;
+    
+}
